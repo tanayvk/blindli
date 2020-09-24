@@ -8,6 +8,7 @@
 .buildlog/
 .history
 .svn/
+__Flutter_Output__
 
 # IntelliJ related
 *.iml
